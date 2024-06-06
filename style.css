@@ -1,0 +1,13 @@
+
+.box{
+    padding: 30px 20px;
+  }
+  .box-part{
+    padding: 40px 20px;
+    background-color: gainsboro;
+    margin: 15px 20px 25px 20px;
+    text-align: center;
+  }
+  .fa{
+    color: blue;
+  }
